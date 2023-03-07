@@ -12,6 +12,7 @@ int main(void)
         sum += temp;
     }
 
+
     printf("Avarage tiem spent in each week: %.1lf hr\n", sum / i);
         
 }
